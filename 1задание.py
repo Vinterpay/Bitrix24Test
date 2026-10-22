@@ -104,3 +104,4 @@ not a log line
 
 print(analyze_logs(log))
 # Вывод: ERROR: 2, WARN: 1, INFO: 1, первая: 2026-10-13 14:23:05, последняя: 2026-10-13 14:23:30
+
